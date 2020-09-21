@@ -1,4 +1,4 @@
-package org.example.app;
+package org.example.test;
 
 import java.text.StringCharacterIterator;
 import java.util.ArrayList;
